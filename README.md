@@ -1,4 +1,4 @@
-![Logo](https://avatars.githubusercontent.com/u/86890740?s=200&v=4.png) \
+![Logo](https://avatars.githubusercontent.com/u/86890740?s=200&v=4.png)
 # For Gyms
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer scelerisque urna feugiat sem fermentum luctus. Maecenas at velit laoreet, fringilla mi quis, suscipit magna. Ut. 
+BitBadges can potentially be the ultimate gym membership, or even equipment management solution for your fitness center!
